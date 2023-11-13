@@ -94,7 +94,7 @@ body {
 }
 
 
-botonrecetasrevisar a {
+.botonrecetasrevisar a {
   text-decoration: none; 
   display: block; 
   height: 100%;
