@@ -70,7 +70,15 @@ body {
   cursor: pointer; 
   transition: background-color 0.5s ease;
   font-size: 22px;
-   
+  width: 311px;
+  color: rgba(121, 134, 38, 1);
+  position: absolute;
+  top: 18px;
+  left: 28px;
+  font-family: Inter, sans-serif;
+  font-weight: Regular;
+  font-size: 22px;
+  text-align: center;  
 }
 
 /* Estilo para el botón */
@@ -86,6 +94,22 @@ body {
   font-size: 22px;
   text-align: center;
 
+
+  width: 363px;
+  height: 54px;
+  background: rgba(240, 237, 197, 1);
+  position: absolute;
+  top: 970px;
+  left: 646px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+  cursor: pointer; 
+  transition: background-color 0.5s ease;
+  font-size: 22px;
+
 }
 
 /* Cambiar estilo al pasar el ratón sobre el botón */
@@ -100,6 +124,11 @@ body {
   height: 100%;
 }
 
+.botonrecetasrevisar:hover {
+  background: rgba(121, 134, 38, 1); 
+  color: rgba(121, 134, 38, 1);
+  border-bottom: 2px solid rgba(121, 134, 38, 1);
+}
 
 .botonrecetasrevisar:hover .boton1 {
   color: rgba(240, 237, 197, 1); 
