@@ -93,6 +93,7 @@ body {
 
 .botonrecetasrevisar a {
   text-decoration: none; 
+  color:rgba(121, 134, 38, 1) ;
   display: block; 
   height: 100%;
 }
