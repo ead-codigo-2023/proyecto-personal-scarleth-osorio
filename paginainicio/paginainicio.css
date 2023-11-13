@@ -101,6 +101,7 @@ body {
 .botonrecetasrevisar:hover {
   background: rgba(121, 134, 38, 1); 
   color: rgba(121, 134, 38, 1);
+  border-bottom: 2px solid rgba(121, 134, 38, 1);
 }
 
 .botonrecetasrevisar:hover .boton1 {
