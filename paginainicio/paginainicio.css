@@ -48,6 +48,9 @@ body {
   left: 0px;
   overflow: hidden;
 }
+
+
+
 .botonrecetasrevisar {
   width: 363px;
   height: 54px;
@@ -64,7 +67,7 @@ body {
   transition: background-color 0.5s ease; 
 }
 
-.boton1 {
+.botonrecetasrevisar .boton1 {
   width: 311px;
   color: rgba(121, 134, 38, 1);
   position: absolute;
@@ -76,12 +79,13 @@ body {
   text-align: center;
 }
 
-.boton1 a {
+.botonrecetasrevisar a {
   text-decoration: none; 
   display: block; 
-  height: 100%; 
+  height: 100%;
 }
-.boton1:hover {
+
+.botonrecetasrevisar:hover {
   background: rgba(121, 134, 38, 1); 
   border-bottom: 2px solid rgba(255, 252, 252, 1);
 }
@@ -89,6 +93,7 @@ body {
 .botonrecetasrevisar:hover .boton1 {
   color: rgba(240, 237, 197, 1); 
 }
+
 
 
 
