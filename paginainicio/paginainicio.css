@@ -98,8 +98,14 @@ body {
   height: 100%;
 }
 
+.botonrecetasrevisar:hover {
+  background: rgba(121, 134, 38, 1); 
+  color: rgba(121, 134, 38, 1);
+}
+
 .botonrecetasrevisar:hover .boton1 {
   color: rgba(240, 237, 197, 1); 
+  background: rgba(240, 237, 197, 1);
 }
 
 
