@@ -70,6 +70,7 @@ body {
 
 /* Estilo para el botón */
 .boton1 {
+  font-family: Inter, sans-serif;
   width: 363px;
   height: 54px;
   background: rgba(240, 237, 197, 1);
