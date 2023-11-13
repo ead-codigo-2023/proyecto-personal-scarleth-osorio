@@ -54,37 +54,7 @@ body {
 
 
 /* Estilo para el contenedor del botón */
-.botonrecetasrevisar {
-  font-family: Inter, sans-serif;
-  width: 363px;
-  height: 54px;
-  background: rgba(240, 237, 197, 1);
-  position: absolute;
-  top: 970px;
-  left: 646px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  overflow: hidden;
-  cursor: pointer; 
-  transition: background-color 0.5s ease;
-  font-size: 22px;
-  width: 311px;
-  color: rgba(121, 134, 38, 1);
-  position: absolute;
-  top: 18px;
-  left: 28px;
-  font-family: Inter, sans-serif;
-  font-weight: Regular;
-  font-size: 22px;
-  text-align: center;  
-}
-
-/* Estilo para el botón */
-.boton1 {
-
-  width: 311px;
+.botonrecetasrevisar {width: 311px;
   color: rgba(121, 134, 38, 1);
   position: absolute;
   top: 18px;
@@ -94,7 +64,14 @@ body {
   font-size: 22px;
   text-align: center;
 
+  
+   
+}
 
+/* Estilo para el botón */
+.boton1 {
+
+  font-family: Inter, sans-serif;
   width: 363px;
   height: 54px;
   background: rgba(240, 237, 197, 1);
@@ -109,6 +86,10 @@ body {
   cursor: pointer; 
   transition: background-color 0.5s ease;
   font-size: 22px;
+  
+
+
+  
 
 }
 
