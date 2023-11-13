@@ -88,6 +88,7 @@ body {
 .boton1:hover {
   background-color:  rgba(121, 134, 38, 1); /* Cambiar color de fondo al pasar el ratón */
   color:rgba(121, 134, 38, 1) 
+  border: none;
 }
 
 
@@ -96,11 +97,13 @@ body {
   color:rgba(121, 134, 38, 1) ;
   display: block; 
   height: 100%;
+  border: none;
 }
 
 .botonrecetasrevisar:hover {
   background: rgba(121, 134, 38, 1); 
   color: rgba(121, 134, 38, 1);
+  border: none;
 }
 
 .botonrecetasrevisar:hover .boton1 {
