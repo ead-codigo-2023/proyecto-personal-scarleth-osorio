@@ -1,0 +1,190 @@
+body {
+  background-color:#F0EDC5;
+ font-family: 'Inter', sans-serif;
+ font-size: 14px;
+}
+
+.imagen2 {
+  width: 388px;
+  height: 177px;
+  background: url("../images/v18_125.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2110px;
+  left: 556px;
+  overflow: hidden;
+}
+.imagen1 {
+ width: 263px;
+ height: 120px;
+ background: url("../images/v18_87.png");
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-size: cover;
+ opacity: 1;
+ position: absolute;
+ top: 10px;
+ left: 16px;
+ overflow: hidden;
+}
+
+.texto1 {
+ width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 553px;
+ left: 130px;
+ right: 130;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.texto2 {
+  width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 731px;
+ left: 130px;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.texto3 {
+  width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 993px;
+ left: 130px;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.PORQUE {
+  width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 1179px;
+ left: 130px;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.textoPORQUE {
+  width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 1276px;
+ left: 130px;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.COMO {
+  width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 1446px;
+ left: 130px;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.imagenlogo2 {
+ width: 205px;
+ height: 293px;
+ background: url("../images/v2_1274.png");
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-size: cover;
+ opacity: 1;
+ position: absolute;
+ top: 195px;
+ left: 628px;
+ overflow: hidden;
+}
+.textoCOMO {
+  width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 1551px;
+ left: 130px;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.QUE {
+  width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 1712px;
+ left: 130px;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.textoQUE {
+  width: 1300px;
+ color: rgba(121,134,38,1);
+ position: absolute;
+ top: 1819px;
+ left: 130px;
+ font-family: Inter;
+ font-weight: Regular;
+ font-size: 24px;
+ opacity: 1;
+ text-align: left;
+}
+.inicio {
+  width: 67px;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 16px;
+  left: 997px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 22px;
+  text-align: left;
+}
+.sobreNosotros {
+  width: 175px;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 17px;
+  left: 1096px;
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.contacto {
+  width: 110px;
+  color: rgba(121,134,38,1);
+  position: absolute;
+  top: 17px;
+  left: 1303px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
