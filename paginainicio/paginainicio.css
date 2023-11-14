@@ -87,6 +87,7 @@ body {
 
 .boton1:hover {
   color:rgba(121, 134, 38, 1) ;
+  background: rgba(121, 134, 38, 1); 
   border: none;
 }
 
