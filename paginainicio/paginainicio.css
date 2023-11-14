@@ -85,9 +85,7 @@ body {
   border: none;
 }
 
-/* Cambiar estilo al pasar el ratón sobre el botón */
 .boton1:hover {
-  background-color:  rgba(121, 134, 38, 1); /* Cambiar color de fondo al pasar el ratón */
   color:rgba(121, 134, 38, 1) ;
   border: none;
 }
