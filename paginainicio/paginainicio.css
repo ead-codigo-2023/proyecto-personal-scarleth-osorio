@@ -16,6 +16,7 @@ body {
   top: 1644px;
   left: 0px;
   overflow: hidden;
+  overflow-x: hidden;
 }
 .imagen1 {
   width: 263px;
@@ -29,6 +30,9 @@ body {
   left: 16px;
   overflow: hidden;
 }
+.imagen1 span{
+  display: block;
+}"
 
 .sobrenosotros {
   width: 921px;
