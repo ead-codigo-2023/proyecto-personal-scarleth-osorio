@@ -2,6 +2,8 @@ body {
   background-color:#F0EDC5;
   font-family: 'Inter', sans-serif;
   font-size: 14px;
+  margin: 0;
+    box-sizing: border-box;
 }
 .fondoRosa {
   width: 100%;
