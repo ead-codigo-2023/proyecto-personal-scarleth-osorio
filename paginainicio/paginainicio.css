@@ -198,26 +198,28 @@ body {
   color: rgba(240,237,197,1);
   position: absolute;
   top: 680px;
-  left: 651px;
   font-family: Inter;
   font-weight: Extra Bold;
   font-size: 79px;
   text-align: center;
   overflow: hidden;
   overflow-x: hidden;
+  padding: 10px;
+
 }
 .tituloinstagram {
   width: 100%auto;
   color: rgba(204,74,91,1);
   position: absolute;
   top: 1759px;
-  left: 77px;
   font-family: Inter;
   font-weight: Extra Bold;
   font-size: 79px;
   text-align: center;
   overflow: hidden;
   overflow-x: hidden;
+  padding: 10px;
+
 }
 .recetariotexto {
   width: 100%;
