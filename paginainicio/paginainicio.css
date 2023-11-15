@@ -194,7 +194,7 @@ body {
 
 
 .titulorecetarios{
-  width: 595px;
+  width: 100%;
   color: rgba(240,237,197,1);
   position: absolute;
   top: 680px;
@@ -202,10 +202,12 @@ body {
   font-family: Inter;
   font-weight: Extra Bold;
   font-size: 79px;
-  text-align: left;
+  text-align: center;
+  overflow: hidden;
+  overflow-x: hidden;
 }
 .tituloinstagram {
-  width: 595px;
+  width: 100%auto;
   color: rgba(204,74,91,1);
   position: absolute;
   top: 1759px;
@@ -213,10 +215,12 @@ body {
   font-family: Inter;
   font-weight: Extra Bold;
   font-size: 79px;
-  text-align: left;
+  text-align: center;
+  overflow: hidden;
+  overflow-x: hidden;
 }
 .recetariotexto {
-  width: 690px;
+  width: 100%;
   color: rgba(255,252,252,1);
   position: absolute;
   top: 811px;
