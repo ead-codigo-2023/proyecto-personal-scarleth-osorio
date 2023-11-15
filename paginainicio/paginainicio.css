@@ -31,7 +31,6 @@ body {
   position: absolute;
   top: 10px;
   left: 16px;
-  overflow: hidden;
 }
 .imagen1 span{
   display: block;
