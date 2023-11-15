@@ -57,7 +57,7 @@ body {
 .botonrecetasrevisar {width: 311px;
   color: rgba(121, 134, 38, 1);
   position: absolute;
-  top: 18px;
+  top: 19px;
   left: 20px;
   font-family: Inter, sans-serif;
   font-weight: Regular;
@@ -74,7 +74,7 @@ body {
   position: absolute;
   color:rgba(121, 134, 38, 1) ;
   top: 970px;
-  left: 620px; 
+  left: 625px; 
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
