@@ -4,6 +4,7 @@ body {
   font-size: 14px;
   margin: 0;
     box-sizing: border-box;
+    text-align: center;
 }
 :root {
   margin: 0;
@@ -37,17 +38,16 @@ body {
 }"
 
 .sobrenosotros {
-  width: 921px;
   color: rgba(121,134,38,1);
   position: absolute;
   top: 328px;
   left: 260px;
   font-family: 'Inter', sans-serif;
-  font-weight: Regular;
+  font-weight: 600;
   text-decoration: none;
   font-size: 24px;
   text-align: left;
-  
+  overflow-x: hidden;
 }
 
 .verderecetas {
@@ -58,6 +58,7 @@ body {
   top: 590px;
   left: 0px;
   overflow: hidden;
+  overflow-x: hidden;
 }
 
 
