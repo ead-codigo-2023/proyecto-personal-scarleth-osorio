@@ -5,6 +5,9 @@ body {
   margin: 0;
     box-sizing: border-box;
 }
+:root {
+  margin: 0;
+}
 .fondoRosa {
   width: 100%;
   height: 712px;
