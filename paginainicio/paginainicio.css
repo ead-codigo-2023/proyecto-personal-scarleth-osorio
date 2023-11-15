@@ -35,7 +35,7 @@ body {
 }
 .imagen1 span{
   display: block;
-}"
+}
 
 .sobrenosotros {
   color: rgba(121,134,38,1);
@@ -75,6 +75,8 @@ body {
   font-size: 22px;
   text-align: center; 
   border: none;  
+  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .boton1 {
@@ -95,12 +97,16 @@ body {
   transition: background-color 0.5s ease;
   font-size: 22px;
   border: none;
+  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .boton1:hover {
   color:rgba(121, 134, 38, 1) ;
   background: rgba(121, 134, 38, 1); 
   border: none;
+  overflow: hidden;
+  overflow-x: hidden;
 }
 
 
@@ -110,6 +116,8 @@ body {
   display: block; 
   height: 100%;
   border: none;
+  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .botonrecetasrevisar:hover {
