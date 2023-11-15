@@ -12,11 +12,9 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  opacity: 1;
   position: absolute;
   top: 10px;
   left: 16px;
-  overflow: hidden;
 }
 .fondoverdeoscuro {
   width: 100%;
